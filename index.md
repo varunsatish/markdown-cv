@@ -7,24 +7,28 @@ title: "CV"
 permalink: "/CV/"
 ---
 
-Varun Satish
-============
+---
+layout: cv
+title: Varun Satish CV
+---
+# Varun Satish
 
--------------------     ----------------------------
-Email: varun.satish96@gmail.com       
-GitHub: varunsatish
-Personal Website: varunsatish.github.io
--------------------     ----------------------------
+<div id="webaddress">
+<a href="varun.satish96@gmail.com">varun.satish96@gmail.com</a>
+</div>
+
+
 
 Education
 ---------
 
-2016-2019 (expected)
-:   **BEc. (Honours), Economics and Econometrics**; University of Sydney 
-    * Thesis title: Social Networks and Technology Adoption: Evidence from Kenya
+
+**BEc. (Honours), Economics and Econometrics**; University of Sydney 2016-2019 (expected)
+* Thesis title: Social Networks and Technology Adoption: Evidence from Kenya
+
 
 Experience
-----------
+---------
 
 **‘Coding for Economists’ Co-founder**
 
@@ -46,37 +50,26 @@ Experience
 2018 – Present
 * Introductory Macroeconomics (ECON1002), Introductory Econometrics (ECMT1020)
 
-
-
-
 Technical Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **Python:** Self-taught Python, have also had some experience with projects on GitHub
+* **Python:** Self-taught Python, have also had some experience with projects on GitHub
 
-:   **STATA/R/MATLAB:** Have used all in a university setting, currently using STATA for my honours thesis      and have done some RA work in R and MATLAB
+* **STATA/R/MATLAB:** Have used all in a university setting, currently using STATA for my honours thesis      and have done some RA work in R and MATLAB
 
-:   **LaTeX:** Experience writing academic style research proposals and am writing my honours thesis in         LaTeX
+* **LaTeX:** Experience writing academic style research proposals and am writing my honours thesis in         LaTeX
 
-:   Basic knowledge of **SQL**, **Tableau**
+* Basic knowledge of **SQL**, **Tableau**
 
 [ref]: https://github.com/varunsatish/Research-Assistant-Work
+
+
+<!-- ### Footer
+
+Last updated: Jun 2019 -->
+
+
 
 
 
