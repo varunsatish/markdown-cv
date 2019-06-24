@@ -43,14 +43,13 @@ Experience
 Technical Skills
 --------------------
 
-Programming Languages
-- **Python:** Self-taught Python, have also had some experience with projects on GitHub
+**Python:** Self-taught Python, have also had some experience with projects on GitHub
 
-- **STATA/R/MATLAB:** Have used all in a university setting, currently using STATA for my honours thesis      and have done some RA work in R and MATLAB
+**STATA/R/MATLAB:** Have used all in a university setting, currently using STATA for my honours thesis      and have done some RA work in R and MATLAB
 
-- **LaTeX:** Experience writing academic style research proposals and am writing my honours thesis in         LaTeX
+**LaTeX:** Experience writing academic style research proposals and am writing my honours thesis in         LaTeX
 
-- Basic knowledge of **SQL**, **Tableau**
+Basic knowledge of **SQL**, **Tableau**
 
 [ref]: https://github.com/varunsatish/Research-Assistant-Work
 
