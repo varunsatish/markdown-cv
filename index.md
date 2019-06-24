@@ -1,14 +1,5 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
----
----
-title: "CV"
-permalink: "/CV/"
----
-
----
-layout: cv
 title: Varun Satish CV
 ---
 # Varun Satish
@@ -24,7 +15,7 @@ Education
 
 
 **BEc. (Honours), Economics and Econometrics**; University of Sydney 2016-2019 (expected)
-* Thesis title: Social Networks and Technology Adoption: Evidence from Kenya
+- Thesis title: Social Networks and Technology Adoption: Evidence from Kenya
 
 
 Experience
@@ -68,8 +59,3 @@ Programming Languages
 <!-- ### Footer
 
 Last updated: Jun 2019 -->
-
-
-
-
-
