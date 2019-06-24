@@ -2,90 +2,81 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+---
+title: "CV"
+permalink: "/CV/"
+---
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Varun Satish
+============
 
+-------------------     ----------------------------
+Email: varun.satish96@gmail.com       
+GitHub: varunsatish
+Personal Website: varunsatish.github.io
+-------------------     ----------------------------
 
-## Currently
+Education
+---------
 
-Standing on the shoulders of giants
+2016-2019 (expected)
+:   **BEc. (Honours), Economics and Econometrics**; University of Sydney 
+    * Thesis title: Social Networks and Technology Adoption: Evidence from Kenya
 
-### Specialized in
+Experience
+----------
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**‘Coding for Economists’ Co-founder**
 
+* Created a curriculum and are running workshops aimed at improving programming literacy amongst Economics students
+* Workshops utilize Python and Jupyter Notebooks, examples of which can be found on the GitHub provided
+* [Link](https://github.com/varunsatish/Coding-Tutorials) to workshops
 
-### Research interests
+**Research Assistant – Centre of Translational Data Science, University of Sydney**
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* Created a Python package – ‘absdata’ (still in development stage), aimed at allowing researchers ease of access to Australian Bureau Statistics data
+* Involved in a project aimed at identifying differences between Euclidean and ‘Street Network’ distances in the estimation of Gaussian Process regression functions that can be applied to spatial modelling problems
 
+**Research Assistant – School of Economics, University of Sydney**
+* Using Python to conduct GIS analysis and create visualizations
+* Monte Carlo simulations using MATLAB
+* Data scraping from the web and other sources, data engineering/cleaning using Python
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+**Academic Tutor – School of Economics, University of Sydney**
+2018 – Present
+* Introductory Macroeconomics (ECON1002), Introductory Econometrics (ECMT1020)
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Technical Skills
+--------------------
 
-### Journals
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
 
-`1669`
-Lectiones opticæ.
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
 
-etc. etc. etc.
+Programming Languages
+:   **Python:** Self-taught Python, have also had some experience with projects on GitHub
 
-### Patents
+:   **STATA/R/MATLAB:** Have used all in a university setting, currently using STATA for my honours thesis      and have done some RA work in R and MATLAB
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+:   **LaTeX:** Experience writing academic style research proposals and am writing my honours thesis in         LaTeX
 
+:   Basic knowledge of **SQL**, **Tableau**
 
-## Occupation
+[ref]: https://github.com/varunsatish/Research-Assistant-Work
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
